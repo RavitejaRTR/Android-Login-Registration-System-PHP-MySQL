@@ -1,2 +1,4 @@
 # ProjectUnknown
-I am creating a java web application which involves usage of technologies like sql, JDBC/Hybernate , HTML, Wordpress. In order to have hands on in creating web applications and hosting them independently.
+Create an android application that can handle user login, registration and logout functionality. XAMPP server is used locally for development.
+PHP scripting is written to handle server side actions/ db modifications.
+MySQL database is used.
